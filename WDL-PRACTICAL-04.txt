@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>My Timetable</title>
+</head>
+
+<body bgcolor="white">
+
+<h1 align="center">TIMETABLE</h1>
+
+<table border="1" cellpadding="10" cellspacing="5" align="center">
+
+<tr bgcolor="lightgrey">
+    <th rowspan="2">Day/Time</th>
+    <th colspan="4">Time Slots</th>
+</tr>
+
+<tr bgcolor="lightgrey">
+    <th>7 to 8</th>
+    <th>8 to 9</th>
+    <th>9 to 10</th>
+    <th>10 to 12:30</th>
+</tr>
+
+<tr>
+    <th bgcolor="lightgreen">Monday</th>
+    <td bgcolor="lightcyan">SMP</td>
+    <td bgcolor="lightyellow">Chemistry</td>
+    <td rowspan="6" bgcolor="orange">Dinner</td>
+    <td bgcolor="lightyellow">Social Media</td>
+</tr>
+
+<tr>
+    <th bgcolor="lightgreen">Tuesday</th>
+    <td bgcolor="lightyellow">Chemistry</td>
+    <td bgcolor="lightcyan">SMP</td>
+    <td bgcolor="lightblue">Gaming</td>
+</tr>
+
+<tr>
+    <th bgcolor="lightgreen">Wednesday</th>
+    <td bgcolor="lightyellow">Electrical</td>
+    <td bgcolor="lightpink">CodeTantra</td>
+    <td bgcolor="lightcyan">SMP</td>
+</tr>
+
+<tr>
+    <th bgcolor="lightgreen">Thursday</th>
+    <td bgcolor="lightcyan">SMP</td>
+    <td bgcolor="lightblue">Gaming</td>
+    <td bgcolor="lightcyan">SMP</td>
+</tr>
+
+<tr>
+    <th bgcolor="lightgreen">Friday</th>
+    <td bgcolor="lightyellow">Chemistry</td>
+    <td bgcolor="lightcyan">SMP</td>
+    <td bgcolor="pink">Soft Skill</td>
+</tr>
+
+<tr>
+    <th bgcolor="lightgreen">Saturday</th>
+    <td bgcolor="lightcyan">SMP</td>
+    <td bgcolor="lightyellow">Chemistry</td>
+    <td bgcolor="lightblue">Gaming</td>
+</tr>
+
+</table>
+
+<br><br>
+
+<h4 align="right">
+Atharv Kalambe <br>
+IT25011
+</h4>
+
+</body>
+</html>
